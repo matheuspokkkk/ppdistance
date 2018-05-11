@@ -1,3 +1,1 @@
-#to run
-./ppdistance protein1 protein2
-
+needs update
